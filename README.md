@@ -49,7 +49,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faxshw&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Ouvindo Agora
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yfaxshw@gmail.com)](mailto:yfaxshw@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/faxshw?label=follow&style=social)](https://github.com/faxshw)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2ftjtstbq2f98c65yya07wjv6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
