@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Java no momento.
-- 💼 Trabalhando como Developer na <a href="https://github.com/Versatly">@Versatly</a>.<br/>
+- 💼 Trabalhando como Developer na <a href="https://github.com/faxshw">@Blasty</a>.<br/>
 - 🌱 Aprimorando o conhecimento em Bukkit.
 
 ## Minhas Habilidades
